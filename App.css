@@ -1,0 +1,263 @@
+.App{
+    background-image: linear-gradient(#E8EDF3,#E8EDF3);
+    position:relative;
+     overflow-x: hidden ; 
+   
+} 
+
+ .d-block {
+      height: 400px;
+} 
+ 
+
+
+
+
+ 
+
+
+
+
+.crausel{
+    color:#0ccf40;
+}
+
+.d-inline-block{
+    border-radius:50%;
+}
+
+.footer{
+     background-color:#3d3838; 
+     height:auto;
+     width:100%
+}
+
+ul{
+    list-style-type: none;
+}
+
+#footl{
+     padding-left:550px; 
+     
+     padding-bottom: 15px;
+}
+#footu{
+     padding-left:250px; 
+   
+}
+
+.head{
+     background-color:#E8EDF3;
+
+}
+
+/* #adminlist{
+      width:200px;
+      height:150px;
+      border:5px solid #0ccf40;
+      position:absolute;
+      left:50px;
+      margin-top: 50px;
+} */
+
+ 
+
+
+#userdetail{
+  display: inline-block;
+   margin:auto;
+   margin-bottom: 15px;
+   margin-left: 50px;
+   margin-top:15px;
+   background-image: linear-gradient(#CDCDCD,#CDCDCD);
+   border:2px solid #00000099;
+   border-radius: 2%;
+   padding: 15px;
+   
+}
+#userorder{
+    display: inline-block;
+   margin:auto;
+   margin-bottom: 10px;
+   margin-left: 50px;
+}
+ 
+#updateorder{
+    display: inline-block;
+    width:50%;
+    margin:auto;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
+
+#userorderdetail{
+    display: inline-block;
+    width:50%;
+    margin:auto;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    margin-top:15px;
+    background-image: linear-gradient(#CDCDCD,#CDCDCD);
+    border:2px solid #00000099;
+    border-radius: 2%;
+    padding: 15px;
+}
+
+#orderdetail{
+    display: inline-block;
+    width:50%;
+    margin:auto;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    margin-top:15px;
+    background-image: linear-gradient(#CDCDCD,#CDCDCD);
+    border:2px solid #00000099;
+    border-radius: 2%;
+    padding: 15px;
+}
+#placeorder{
+     width:50%;
+     display: inline-block;
+     margin:auto;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    margin-top:15px;
+     background-image: linear-gradient(#CDCDCD,#CDCDCD);
+     border:2px solid #00000099;
+     border-radius: 2%;
+     padding: 15px;
+    height:500px;
+}
+#addproduct{
+    width:70%;
+    display: inline-block;
+    /* margin-right:150px;
+    margin-top:10px; */
+    margin:15px;
+    background-image: linear-gradient(#CDCDCD,#CDCDCD);
+    border:2px solid #00000099;
+    border-radius: 2%;
+    padding-left: 15px;
+}
+
+#productstock{
+    display: inline-block;
+    margin-top:15px;
+    margin-bottom: 15px;
+    margin-left:15px;
+    margin-right:15px;
+    margin-bottom:50px;
+    background-image: linear-gradient(#BEC5C2,#BEC5C2);
+    border:2px solid #ffffff;
+   
+}
+#updateproduct{
+    display: inline-block;
+    margin:auto;
+    width:70%;
+}
+
+
+#profitpage{
+    display: inline-block;
+    margin:15px; 
+    width:70%;
+    background-image: linear-gradient(#CDCDCD,#CDCDCD);
+    border:2px solid #00000099;
+    border-radius: 2%;
+    padding-left: 15px;
+  
+}
+/* mandatory for card arrangment NOT USE margin:auto */
+#cardstock{
+    display: inline-block;
+   /* margin-top:15px;
+   margin-left:15px;
+   margin-bottom: 15px; */
+   margin:15px;
+   /* background-image: linear-gradient(#00e6e6,#00e6e6); */
+}
+
+
+
+.accessapi{
+    /* background-image: linear-gradient(#00e6e6,#00e6e6); */
+    width:auto;
+    display: inline-block;
+    margin:auto;
+    padding-bottom: 50px;
+    margin-top: 10px;
+     margin-left:10px; 
+    margin-bottom:10px;
+    
+}
+.card_bkgroundimg{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbXb5Zwv5Syvh2r0q-cCta20dlrmAFQArhw&usqp=CAU");
+}
+.crausel{
+    font-family: cursive;
+    font-style: italic;
+     font-weight: bolder;
+
+}
+
+.logofooter{
+    height:45px;
+    width:45px;
+    margin:1px;
+    border-radius:50%;
+}
+/* footer */
+.logofit{
+     margin-left:25px;
+}
+#Gridcard{
+    display: inline-block;
+    margin-top:15px;
+    margin-left: 15px;
+    margin-right:15px; 
+     /* width:100%;  */
+    background-image: linear-gradient(#BEC5C2,#BEC5C2);
+    margin-bottom:50px;
+    border:2px solid #ffffff;
+   }
+
+   #userlist{
+     
+    display: inline-block;
+       width:100%;  
+    /* margin:10px;  */
+    margin-top:15px;
+    margin-bottom: 15px;
+    margin-right:15px;    
+    background-image: linear-gradient(#CDCDCD,#CDCDCD);
+    border:2px solid #ffffff;
+  /* padding: 15px;   */
+  margin-left: 15px;
+  overflow-x: auto;
+   
+}
+
+
+
+
+   .admnlayout{
+    position:relative;
+     display:flex; 
+      /* padding-left:15px;  */
+     
+}
+
+#pagination{
+    position:absolute;
+     bottom: 5px; 
+    left:25px;
+     margin-top:15px; 
+    display:block; 
+    margin-left:650px;
+    float:left;
+}
+
+#disabled-link{
+    pointer-events: none;
+}
